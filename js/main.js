@@ -204,8 +204,8 @@
 // };
 // console.log(getUserNameFromEmail('player2@Somerandom.com'));
 
-const toProperCase = (name) => {
-	return name.charAt(0).toUpperCase() + name.slice(1).toLowerCase();
-};
+// const toProperCase = (name) => {
+// 	return name.charAt(0).toUpperCase() + name.slice(1).toLowerCase();
+// };
 
-console.log(toProperCase('jAkE'));
+// console.log(toProperCase('jAkE'));
